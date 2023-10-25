@@ -3,8 +3,16 @@
 let jdata = [
 {
     "type" : "1", 
+    "title": "GenMotion AI", 
+    "image": "/static/Projects_Images/GenMotion_AI.png", 
+    "date" : "Sept 2023", 
+    "desc" : "An AI powered text to video generator that takes a new article as input and generates an short engaging video summarizing the article.", 
+    "link" : "https://youtu.be/9LybWlx45MM"
+},
+{
+    "type" : "1", 
     "title": "Attire AI", 
-    "image": "./static/Projects_Images/AttireAI.png", 
+    "image": "/static/Projects_Images/AttireAI.png", 
     "date" : "Aug 2023", 
     "desc" : "A conversational AI fashion outfit generator that leverages Generative AI technology to provide personalized and on-trend outfit recommendations to users.", 
     "link" : "https://youtu.be/cZlyOJwVQjs"
@@ -12,7 +20,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Bid Bazaar", 
-    "image": "./static/Projects_Images/BidBazaar.jpg", 
+    "image": "/static/Projects_Images/BidBazaar.jpg", 
     "date" : "May 2023", 
     "desc" : "An online auction platform that lets users create and bid on auctions for a wide range of products. Bids, bidding history & chat are handled with socket.io to ensure minimal latency. Website supports both bidding and reverse bidding auctions.", 
     "link" : "https://github.com/Archit1706/TIAA-Hackathon"
@@ -36,7 +44,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "File Share Whatsapp bot", 
-    "image": "./static/Projects_Images/file-whatsappbot.png", 
+    "image": "/static/Projects_Images/file-whatsappbot.png", 
     "date" : "Apr 2023", 
     "desc" : "Whatsapp bot that lets users upload files to my file hosting website or create shortened links directly from Whatsapp.", 
     "link" : "https://wa.me/918692087939"
@@ -44,7 +52,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Email Spam Classifier", 
-    "image": "./static/Projects_Images/email-spam.png", 
+    "image": "/static/Projects_Images/email-spam.png", 
     "date" : "Apr 2023", 
     "desc" : "A demo for an email spam classifier algorithm that uses a Multinomial Naive Bayes model to classify emails.", 
     "link" : "https://email-spam.sidd065.repl.co/"
@@ -60,7 +68,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "QAI: AI Powered Study Helper", 
-    "image": "./static/Projects_Images/QAI.png", 
+    "image": "/static/Projects_Images/QAI.png", 
     "date" : "Feb 2023", 
     "desc" : "Website that uses text-davinci-003 to generate modulewise Question Banks for exams based on previously asked questions and current syllabus. Also solves questions and recommends related questions & videos.", 
     "link" : "https://replit.com/@Sidd065/QAi"
@@ -68,7 +76,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "File Share Telegram bot", 
-    "image": "./static/Projects_Images/file-telegrambot.png", 
+    "image": "/static/Projects_Images/file-telegrambot.png", 
     "date" : "Jan 2023", 
     "desc" : "Telegram bot that lets users upload files to my file hosting website or create shortened links directly from Telegram.", 
     "link" : "https://replit.com/@Sidd065/file-telegram"
@@ -76,7 +84,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "ChatGPT Telegram bot", 
-    "image": "./static/Projects_Images/chatgpt-telegram.png", 
+    "image": "/static/Projects_Images/chatgpt-telegram.png", 
     "date" : "Jan 2023", 
     "desc" : "Telegram bot that uses the text-davinci-003 model to response to user prompts. Allows user to create a conversation thread there the bot is aware of what was said before.", 
     "link" : "https://replit.com/@Sidd065/chatgpt-telegram"
@@ -84,7 +92,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Power Up", 
-    "image": "./static/Projects_Images/powerup.png", 
+    "image": "/static/Projects_Images/powerup.png", 
     "date" : "Jan 2023", 
     "desc" : "Website made using MERN stack that intergrate Google Fit API and text-davinci-003 to help users track fitness and gives them incentives to workout and eat healthy.", 
     "link" : "https://powerup.sidd065.repl.co"
@@ -100,7 +108,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Sync Clipboards", 
-    "image": "./static/Projects_Images/Sync Clipboards.png", 
+    "image": "/static/Projects_Images/Sync Clipboards.png", 
     "date" : "Dec 2022", 
     "desc" : "Program to synchronize the clipboards of two computers on the same network. Useful when working across multiple devices.", 
     "link" : "https://replit.com/@Sidd065/Sync-Clipboards"
@@ -108,7 +116,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Instamart Item Grabber", 
-    "image": "./static/Projects_Images/Swiggy.png", 
+    "image": "/static/Projects_Images/Swiggy.png", 
     "date" : "Dec 2022", 
     "desc" : "Web scraper to gather IDs of 8000+ items listed on Instamart that can be used for price tracking.",
     "link" : "https://replit.com/@Sidd065/Instamart-Pricing"
@@ -116,7 +124,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "[CONCEPT] Waterfall Notes", 
-    "image": "./static/Projects_Images/Waterfall Notes.png", 
+    "image": "/static/Projects_Images/Waterfall Notes.png", 
     "date" : "Dec 2022", 
     "desc" : "Learn to play the piano by pressing keys on a real piano as notes flow down the screen. Finger tracking done with a wide angle phone camera.", 
     "link" : "https://replit.com/@Sidd065/Discontinued-OpenCV-Piano"
@@ -132,7 +140,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Recipefolio", 
-    "image": "./static/Projects_Images/Recipefolio.png", 
+    "image": "/static/Projects_Images/Recipefolio.png", 
     "date" : "Aug-Oct 2022", 
     "desc" : "A website made with React/Flask that lets users pick simple ingredients and provides quick and easy recipes for them to cook.", 
     "link" : "https://recipefolio.sidd065.repl.co/"
@@ -140,7 +148,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Keylogger", 
-    "image": "./static/Projects_Images/Keylogger.png", 
+    "image": "/static/Projects_Images/Keylogger.png", 
     "date" : "Aug 2022", 
     "desc" : "A keylogger that logs and sends data to a remote server. Made for a CNS demonstration.", 
     "link" : "https://replit.com/@Sidd065/keylogger"
@@ -148,7 +156,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "My Website", 
-    "image": "./static/Projects_Images/Website.png", 
+    "image": "/static/Projects_Images/Website.png", 
     "date" : "Jul 2022", 
     "desc" : "This website was initally made to learn Three.Js.", 
     "link" : "https://web.sidd065.repl.co/"
@@ -156,7 +164,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Text to ARPAbet", 
-    "image": "./static/Projects_Images/ARPAbet.png", 
+    "image": "/static/Projects_Images/ARPAbet.png", 
     "date" : "Jul 2022", 
     "desc" : "Tool to convert text to ARPAbet to be used for natural emotive high-fidelity TTS with 15.ai.", 
     "link" : "https://replit.com/@Sidd065/Text-to-Phenome"
@@ -180,7 +188,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Fruit Ripeness Detector", 
-    "image": "./static/Projects_Images/Fruit Ripeness.jpg", 
+    "image": "/static/Projects_Images/Fruit Ripeness.jpg", 
     "date" : "Apr 2022", 
     "desc" : "Using a webcam connected to a Raspberry Pi, detect the ripeness of a fruit placed in front of the camera. The image is processed using OpenCV and LEDs are lit up based on the ripeness of the fruit.", 
     "link" : "https://replit.com/@Sidd065/OpenCv-Fruits"
@@ -188,7 +196,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Human Aid", 
-    "image": "./static/Projects_Images/Human Aid.png", 
+    "image": "/static/Projects_Images/Human Aid.png", 
     "date" : "Feb-Apr 2022", 
     "desc" : "Set of STT and TTS and OCR tools to make computers more accessible.<br> Voice Notes that convert speech to text in real time.<br> Message Transcripts reads out WhatsApp messages.<br> Doc Scanner and Narrator performs OCR on a page scanned by the user's phone and narrates the contents of the page.", 
     "link" : "https://replit.com/@Sidd065/Human-Aid"
@@ -196,7 +204,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Z Transform", 
-    "image": "./static/Projects_Images/Z Transform.png", 
+    "image": "/static/Projects_Images/Z Transform.png", 
     "date" : "Mar 2022", 
     "desc" : "Digital filter visualizer. Shows output of a linear, time invariant difference equation to verify its stability or analyse frequency response. Made with Matplotlib.", 
     "link" : "https://replit.com/@Sidd065/Z-Transform"
@@ -204,7 +212,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "File Share", 
-    "image": "./static/Projects_Images/FileShare.png", 
+    "image": "/static/Projects_Images/FileShare.png", 
     "date" : "Feb 2022", 
     "desc" : "File hosting website that provides direct download links and shortened URLs. Allows fast and easy downloads using curl/wget commands from the CLI or the link. Offers other features like reading, redirecting, custom urls, auto cleanup.", 
     "link" : "https://file.sidd065.repl.co/"
@@ -212,7 +220,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Cricket League", 
-    "image": "./static/Projects_Images/Cricket League.jpg", 
+    "image": "/static/Projects_Images/Cricket League.jpg", 
     "date" : "Sep-Nov 2021", 
     "desc" : "Website for the latest cricket news and scores with a Java Socket backend and HTML/CSS frontend.", 
     "link" : "https://replit.com/@Sidd065/javaproject"
@@ -220,7 +228,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "Quick Document Scanner*", 
-    "image": "./static/Projects_Images/Quick Doc Scanner.png", 
+    "image": "/static/Projects_Images/Quick Doc Scanner.png", 
     "date" : "Feb 2021", 
     "desc" : "Automatically grab images taken on a phone camera. Deskew, desaturate and crop images and append them to a .pdf file without any user input. Very useful tool for online exams that require pdfs be submitted in a before a deadline.", 
     "link" : "https://replit.com/@Sidd065/Quick-Doc-Scanner"
@@ -228,7 +236,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "MU Results", 
-    "image": "./static/Projects_Images/MU Results.png", 
+    "image": "/static/Projects_Images/MU Results.png", 
     "date" : "Sep 2021", 
     "desc" : "Website that parses .pdfs uploaded to mumresults.in allowing users to search their PRN or seat number and see results displayed in a more readable format.", 
     "link" : "https://replit.com/@Sidd065/mumresults"
@@ -236,7 +244,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "CoinPicker", 
-    "image": "./static/Projects_Images/Coinpicker.png", 
+    "image": "/static/Projects_Images/Coinpicker.png", 
     "date" : "May 2021", 
     "desc" : "A crypto calculator for estimating the best ROI for a variety of cryptocurrencies at any moment based on the parameters set. Uses various crypto APIs to get current market rates and gas prices.<br>Deprecated after ETH merge.", 
     "link" : "https://replit.com/@Sidd065/Coinpicker#main.py"
@@ -244,7 +252,7 @@ let jdata = [
 {
     "type" : "1", 
     "title": "TimeDelta", 
-    "image": "./static/Projects_Images/TimeDelta.png", 
+    "image": "/static/Projects_Images/TimeDelta.png", 
     "date" : "Aug 2020", 
     "desc" : "Small tool that takes time as an input and finds regions whose time is closes to the input time.", 
     "link" : "https://replit.com/@Sidd065/timedelta"
