@@ -10,6 +10,14 @@ let jdata = [
     "link" : "https://youtu.be/9LybWlx45MM"
 },
 {
+    "type" : "2", 
+    "title": "🖥️ Flipkart GRiD 5.0", 
+    "image": "NONE", 
+    "date" : "May 2023", 
+    "desc" : "Flipkart's Flagship Engineering Campus Hiring Challenge<br> Semi Finalist", 
+    "link" : "NONE"
+},
+{
     "type" : "1", 
     "title": "Attire AI", 
     "image": "/static/Projects_Images/AttireAI.png", 
