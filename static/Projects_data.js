@@ -6,7 +6,7 @@ let jdata = [
     "title": "GenMotion AI", 
     "image": "/static/Projects_Images/GenMotion_AI.png", 
     "date" : "Sept 2023", 
-    "desc" : "An AI powered text to video generator that takes a new article as input and generates an short engaging video summarizing the article.", 
+    "desc" : "An AI powered text to video generator that takes a new article as input and generates a short engaging video summarizing the article.", 
     "link" : "https://youtu.be/9LybWlx45MM"
 },
 {
