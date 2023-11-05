@@ -23,7 +23,7 @@ let jdata = [
     "image": "/static/Projects_Images/AttireAI.png", 
     "date" : "Aug 2023", 
     "desc" : "A conversational AI fashion outfit generator that leverages Generative AI technology to provide personalized and on-trend outfit recommendations to users.", 
-    "link" : "https://youtu.be/cZlyOJwVQjs"
+    "link" : "https://devpost.com/software/attireai-a-conversational-fashion-outfit-generator"
 },
 {
     "type" : "1", 
