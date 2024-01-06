@@ -23,7 +23,7 @@ let jdata = [
     "image": "/static/Projects_Images/AttireAI.png", 
     "date" : "Aug 2023", 
     "desc" : "A conversational AI fashion outfit generator that leverages Generative AI technology to provide personalized and on-trend outfit recommendations to users.", 
-    "link" : "youtu.be/cZlyOJwVQjs"
+    "link" : "https://youtu.be/cZlyOJwVQjs"
 },
 {
     "type" : "1", 
@@ -286,7 +286,7 @@ let jdata = [
     "title": "And Many More", 
     "image": "NONE", 
     "date" : "Before 2020", 
-    "desc" : "Several other projects written in Python, Java, C++, Visual Basic and Scratch🐱 lost to time.", 
+    "desc" : "Several other projects written in Python, Java, Visual Basic and Scratch🐱 lost to time.", 
     "link" : "NONE"
 }
 ]
