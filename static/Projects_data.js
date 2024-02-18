@@ -3,6 +3,14 @@
 let jdata = [
 {
     "type" : "1", 
+    "title": "Attire AI", 
+    "image": "/static/Projects_Images/AttireAI.png", 
+    "date" : "Feb 2024", 
+    "desc" : "A conversational AI fashion outfit generator that leverages Generative AI technology to provide personalized and on-trend outfit recommendations to users.", 
+    "link" : "https://youtu.be/pIr-2qyUwHs"
+},
+{
+    "type" : "1", 
     "title": "GenMotion AI", 
     "image": "/static/Projects_Images/GenMotion_AI.png", 
     "date" : "Sep 2023", 
@@ -16,14 +24,6 @@ let jdata = [
     "date" : "May 2023", 
     "desc" : "Flipkart's Flagship Engineering Campus Hiring Challenge<br> Semi Finalist", 
     "link" : "NONE"
-},
-{
-    "type" : "1", 
-    "title": "Attire AI", 
-    "image": "/static/Projects_Images/AttireAI.png", 
-    "date" : "Aug 2023", 
-    "desc" : "A conversational AI fashion outfit generator that leverages Generative AI technology to provide personalized and on-trend outfit recommendations to users.", 
-    "link" : "https://youtu.be/cZlyOJwVQjs"
 },
 {
     "type" : "1", 
