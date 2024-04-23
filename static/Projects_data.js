@@ -2,6 +2,14 @@
 
 let jdata = [
 {
+    "type" : "2", 
+    "title": "🖥️ Technovation'24", 
+    "image": "NONE", 
+    "date" : "Feb 2024", 
+    "desc" : "Held at TSEC<br> Runner Up", 
+    "link" : "NONE"
+},
+{
     "type" : "1", 
     "title": "Attire AI", 
     "image": "/static/Projects_Images/AttireAI.png", 
@@ -38,7 +46,7 @@ let jdata = [
     "title": "🖥️ Intercollege Hackathon", 
     "image": "NONE", 
     "date" : "May 2023", 
-    "desc" : "A internship hackathon held by Teachers Insurance and Annuity Association of America.<br>🥇 Winner", 
+    "desc" : "An intercollege internship hackathon held by Teachers Insurance and Annuity Association of America (TIAA).<br>🥇 Winner", 
     "link" : "NONE"
 },
 {
@@ -110,7 +118,7 @@ let jdata = [
     "title": "🖥️ Rubix Hackathon", 
     "image": "NONE", 
     "date" : "Oct 2023", 
-    "desc" : "48 hour hackathon by the Computer Society of India<br>🥉 Third Place", 
+    "desc" : "48 hour hackathon held by the Computer Society of India<br>🥉 Third Place", 
     "link" : "NONE"
 },
 {
