@@ -1,6 +1,22 @@
 // "link" : "NONE" for no "MORE" button
 
 let jdata = [
+// {
+//     "type" : "1", 
+//     "title": "Web3 Ride Share", 
+//     "image": "/static/Projects_Images/", 
+//     "date" : "Mar 2024", 
+//     "desc" : "", 
+//     "link" : "https://replit.com/@Sidd065/Ride-Share"
+// },
+// {
+//     "type" : "1", 
+//     "title": "Web3 Decentral Web", 
+//     "image": "/static/Projects_Images/", 
+//     "date" : "Mar 2024", 
+//     "desc" : "", 
+//     "link" : "https://replit.com/@Sidd065/Decentral-Web"
+// },
 {
     "type" : "2", 
     "title": "🖥️ Technovation'24", 
