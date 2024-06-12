@@ -3,7 +3,7 @@ let width, height, cx, cy, wWidth, wHeight;
 const TMath = THREE.Math;
 
 const list = [
-  "HTML5. ","Javascript. ", "Python. ", "LLaMA🦙. ", "Stable Diffusion. ", "React.JS ", "Node.JS  ", "Three.JS ", "Typescript. ", "Flask. ", "Bash. ", "OpenCV. ", "Selenium. ", "Java. "
+  "HTML5. ","Javascript. ", "Python. ", "LLaMA🦙. ", "Stable Diffusion. ", "React.JS ", "Node.JS  ", "Three.JS ", "Typescript. ", "Flask. ", "Flutter. ", "Bash. ", "OpenCV. ", "Web Sockets. ", "Selenium. "
 ]
 let wordCount=0,letterCount=0,typing=true;
 let conf = {
